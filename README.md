@@ -1,1 +1,1 @@
-# aula-devops-git
+# Exercício de GIT para disciplina de DevOps
